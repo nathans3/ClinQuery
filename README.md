@@ -2,8 +2,6 @@
 
 ClinQuery is a standalone Next.js app for chatting with PDFs, images, and text files. Upload sources, extract text (digital PDF layer or vision OCR), index them, and ask questions. Answers stream back with numbered citations that open the exact page and highlight the cited figure or phrase.
 
-This is a personal project. It is not part of Addy AI.
-
 ## What you can do
 
 - Upload PDF, PNG, JPEG, TXT, or Markdown files (25 MB max).
